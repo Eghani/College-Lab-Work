@@ -6,23 +6,23 @@
 
 ### 1. Arithmetic Operations  
 **Problem:** Write a program to enter two numbers and perform all arithmetic operations.  
-[Link to Solution](./1-Arithmetic_operations.cpp)
+[Link to Solution](Arithmetic_operations.cpp)
 
 ### 2. Area of a Triangle using Heron’s Formula  
 **Problem:** Program to find the area of a triangle using Heron’s Formula.  
-[Link to Solution](./2-Herons_formula.cpp)
+[Link to Solution](Herons_formula.cpp)
 
 ### 3. Division with Zero Handling  
 **Problem:** Take two integers as input and divide the first by the second. Prevent division by zero.  
-[Link to Solution](./3-Division_zero_handle.cpp)
+[Link to Solution](Division_zero_handle.cpp)
 
 ### 4. Arithmetic Series  
 **Problem:** Write a program to print `n` terms of an Arithmetic series, with the first term `a` and a constant difference `d`. Take `a`, `d`, `n` from the user.  
-[Link to Solution](./4-Arithmetic_series.cpp)
+[Link to Solution](Arithmetic_series.cpp)
 
 ### 5. Mathematical Operations  
 **Problem:** Take a real value `x` from the user and find the value of `tan(x)`, `log(x)`, and the square root of `x`.  
-[Link to Solution](./5-math-operations.c)
+[Link to Solution](math-operations.c)
 
 ### 6. Prime Numbers  
 **Problem:** Write a program to display all the prime numbers between 1 and 100.  
