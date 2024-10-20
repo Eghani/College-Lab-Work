@@ -26,7 +26,7 @@
 
 ### 6. Prime Numbers  
 **Problem:** Write a program to display all the prime numbers between 1 and 100.  
-[Link to Solution](./6-prime-numbers.c)
+[Link to Solution](prime_number.cpp)
 
 ### 7. Array Input and Processing  
 **Problem:** Write a program to take as input, 10 integers and put them in an array, then find the sum of all elements and the position of the largest element.  
