@@ -30,7 +30,7 @@
 
 ### 7. Array Input and Processing  
 **Problem:** Write a program to take as input, 10 integers and put them in an array, then find the sum of all elements and the position of the largest element.  
-[Link to Solution](./7-array-input-processing.c)
+[Link to Solution](Array_input.cpp)
 
 ### 8. 3x3 Matrix Initialization and Input  
 **Problem:** Declare a 3x3 matrix. Initialize it to zero using nested loops, then fill some user-given values and print the matrix.  
