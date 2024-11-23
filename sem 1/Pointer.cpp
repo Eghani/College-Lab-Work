@@ -1,27 +1,11 @@
 #include <iostream>
 using namespace std;
 
-
-void printArray(int* arr, int size) {
-    int* ptr = arr;  
-    for (int i = 0; i < size; i++) {
-        cout << "Element " << i + 1 << ": " << *(ptr + i) << endl;
-    }
-}
-
 int main() {
-    int size;
-    cout << "Enter the size of the array: " << endl;
-    cin >> size;
-
-    int arr[size];
-    cout << "Enter the elements of the array: " << endl;
-    for (int i = 0; i < size; i++) {
-        cin >> arr[i];
+    int arr[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+    int* ptr = arr;
+    for (int i = 0; i < 10; i++) {
+        cout << *(ptr + i) << " ";
     }
-
-    // Call the function to print the array using a pointer
-    printArray(arr, size);
-
     return 0;
 }

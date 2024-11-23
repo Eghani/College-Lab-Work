@@ -17,12 +17,10 @@ int main ()
     cout<<"Enter the size of the array : - " <<endl;
     cin>>size;
     int arr[size];
-    int count = 1;
     for (int i = 0; i < size; i++)
     {
-        cout<<"Enter the "<<count<<" Element of the array :- "<<endl;
+        cout<<" Elements of thes array :- "<<endl;
         cin>>arr[i];
-        count++;
     }
     minimum(arr , size);
     
